@@ -1,0 +1,7 @@
+export * from './student'
+export * from './attendance'
+export * from './course'
+export * from './programme'
+export * from './degree'
+export * from './teacher'
+export * from './classes'
